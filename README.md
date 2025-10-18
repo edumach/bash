@@ -1,13 +1,5 @@
 
-
-# L11: Bash skripty -- echo, proměnné 
-
-
-> <code>[linux.edumach.cz](https://linux.edumach.cz/)</code>
-
-
----
-
+# Bash skripty -- echo, proměnné 
 
 ## Skripty v jazyce Bash
 
