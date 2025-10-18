@@ -1,0 +1,11 @@
+#!/bin/bash
+
+clear
+mkdir ~/skripty 2> /dev/null
+cd ~/skripty
+echo -n "Zapiš svoje jméno: "
+read jmeno
+echo -e "$jmeno, vítej.\nTvůj home adresář je: $HOME"
+echo "Nyní jsi v adresáři: $(pwd)"
+echo "Skript skončí za 3 sekundy... "
+sleep 3
